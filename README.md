@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Marwan Alkhatib</h1>
 <h3 align="center">A passionate Penetration Tester</h3>
-<img align="center" width=800px  src="https://th.bing.com/th/id/R.c87105470d944359146faf6e1b1ca032?rik=2yCKCuHnoVbSyg&pid=ImgRaw&r=0"/>
+<img align="center" width=400px  src="https://th.bing.com/th/id/R.c87105470d944359146faf6e1b1ca032?rik=2yCKCuHnoVbSyg&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwankhatib&label=Profile%20views&color=0e75b6&style=flat" alt="marwankhatib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwankhatib" alt="marwankhatib" /></a> </p>
