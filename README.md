@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=F70000&background=000000&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Marwan+Alkhatib" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Marwan+Alkhatib" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L2TNH2i0hP1bW/giphy.gif" alt="Cybersecurity Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/MarwanKhatib/MarwanKhatib/main/hacker.gif" alt="Cybersecurity Banner" width="800"/>
 </div>
 
 <div align="center">
