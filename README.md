@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=F70000&background=000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Marwan+Alkhatib" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=F70000&background=000000&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Marwan+Alkhatib" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -21,6 +21,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarwanKhatib&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</div>
+
 <br>
 
 <div align="center">
@@ -38,26 +42,68 @@ I am a **Full-Stack Developer** and a junior **Penetration Tester** with a passi
 
 ---
 
-## 🛠️ Core Skills
+## ⚔️ Cybersecurity Skills
 
-### Penetration Testing & Red Teaming
--   Web Application Pentesting (OWASP Top 10)
--   Post-exploitation & Privilege Escalation
--   Vulnerability Assessment & Reporting
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Penetration Testing & Red Teaming</h4>
+      <ul>
+        <li><b>Web Applications:</b> In-depth knowledge of OWASP Top 10, manual exploitation of vulnerabilities (SQLi, XSS, RCE, IDOR), and API security testing.</li>
+        <li><b>Infrastructure:</b> Network reconnaissance, vulnerability scanning, and exploitation of misconfigurations.</li>
+        <li><b>Post-Exploitation:</b> Windows & Linux privilege escalation, lateral movement, and data exfiltration.</li>
+        <li><b>Active Directory:</b> Enumeration, Kerberoasting, and other common AD attacks.</li>
+        <li><b>Methodologies:</b> Proficient in all phases of penetration testing, from reconnaissance to reporting.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Development & Automation</h4>
+      <ul>
+        <li><b>Secure Development:</b> Experience in building secure web applications with Django, focusing on input validation, authentication, and authorization.</li>
+        <li><b>Frontend Development:</b> Building responsive user interfaces with React.</li>
+        <li><b>Scripting:</b> Automating security tasks and developing custom tools using Python, Bash, and PowerShell.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Security Tools
--   **Network:** Wireshark, Nmap, Gobuster
--   **Exploitation:** Metasploit, Burp Suite, SQLmap, Hydra
--   **SIEM & Monitoring:** Splunk, Wazuh
+---
 
-### Development & Scripting
--   **Languages:** Python, Bash, PowerShell, PHP
--   **Backend:** Django (REST APIs, Authentication, Input Validation)
--   **Frontend:** React (State Management, Routing, UI/UX)
--   **Databases:** PostgreSQL, MySQL, SQLite
+## 🛠️ Tools & Technologies
 
-### Networking
--   OSI Model, TCP/IP, VLANs, DHCP, DNS, Network Segmentation
+<p align="center">
+  <strong>Languages & Scripting</strong><br>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
+  <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <strong>Web Development</strong><br>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <strong>Security & Pentesting Tools</strong><br>
+  <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+  <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
+  <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"></a>
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+  <a href="#"><img alt="SQLmap" src="https.img.shields.io/badge/SQLmap-DBB302?style=for-the-badge&logo=sqlmap&logoColor=white"></a>
+  <a href="#"><img alt="Hydra" src="https://img.shields.io/badge/Hydra-003366?style=for-the-badge&logo=hydra&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <strong>Monitoring & Infrastructure</strong><br>
+  <a href="#"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"></a>
+  <a href="#"><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-FF9900?style=for-the-badge&logo=wazuh&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+</p>
 
 ---
 
