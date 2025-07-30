@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cybersecurity Banner" width="800"/>
+  <img src="https://media.giphy.com/media/L2TNH2i0hP1bW/giphy.gif" alt="Cybersecurity Banner" width="800"/>
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@ I am a **Full-Stack Developer** and a junior **Penetration Tester** with a passi
   <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
   <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"></a>
   <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-  <a href="#"><img alt="SQLmap" src="https.img.shields.io/badge/SQLmap-DBB302?style=for-the-badge&logo=sqlmap&logoColor=white"></a>
+  <a href="#"><img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-DBB302?style=for-the-badge&logo=sqlmap&logoColor=white"></a>
   <a href="#"><img alt="Hydra" src="https://img.shields.io/badge/Hydra-003366?style=for-the-badge&logo=hydra&logoColor=white"></a>
 </p>
 
