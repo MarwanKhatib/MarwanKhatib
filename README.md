@@ -1,46 +1,46 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/18kWeb24s2s3S/giphy.gif" alt="Hacker Banner" width="100%"/>
+  <img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cybersecurity Banner" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Marwan+Alkhatib;System+Infiltrator;Digital+Ghost" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&lines=Marwan+Alkhatib;Penetration+Tester;Security+Researcher" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marwan-alkhatib-426010323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A0A0A" alt="LinkedIn"/></a>
-  <a href="https://github.com/MarwanKhatib" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0A0A0A" alt="GitHub"/></a>
-  <a href="https://tryhackme.com/p/marwanalkhatib" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&color=FF0000" alt="TryHackMe"/></a>
-  <a href="mailto:marwanalkhatibeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0A0A0A" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/marwan-alkhatib-426010323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/MarwanKhatib" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://tryhackme.com/p/marwanalkhatib" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="mailto:marwanalkhatibeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarwanKhatib&style=for-the-badge&color=00FF00" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MarwanKhatib&style=for-the-badge&color=00BFFF" alt="Profile Views"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/MarwanKhatib">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarwanKhatib&show_icons=true&theme=dark&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="Marwan's GitHub stats" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanKhatib&layout=compact&theme=dark&border_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="Top Langs" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarwanKhatib&show_icons=true&theme=tokyonight&border_color=00BFFF&icon_color=00BFFF&title_color=00BFFF&text_color=FFFFFF" alt="Marwan's GitHub stats" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanKhatib&layout=compact&theme=tokyonight&border_color=00BFFF&title_color=00BFFF&text_color=FFFFFF" alt="Top Langs" height="170"/>
   </a>
 </div>
 
 ---
 
-### 👨‍💻 <span style="color:#FF0000;">System Status</span>
-I am a **Full-Stack Developer** and **Penetration Tester** operating in the digital shadows. My mission is to build secure, scalable web applications and then dismantle them, hunting for vulnerabilities before they are exploited. This dual-core programming allows me to engineer more resilient systems. I am a lifelong learner, constantly assimilating new attack vectors and defense mechanisms. Currently preparing for the **eCPPT** certification to sharpen my offensive protocols.
+### 👨‍💻 <span style="color:#00BFFF;">About Me</span>
+I am a **Full-Stack Developer** and **Penetration Tester** with a deep passion for cybersecurity. My expertise lies in building secure, scalable web applications and then trying to break them to uncover vulnerabilities. This dual perspective allows me to build more resilient systems. I am a lifelong learner, constantly exploring new attack vectors and defense mechanisms. I am currently preparing for the **eCPPT** certification to further sharpen my offensive security skills.
 
 ---
 
-### <span style="color:#FF0000;">TryHackMe Datalogs</span>
+### <span style="color:#00BFFF;">TryHackMe Walkthroughs & Challenges</span>
 
 <details>
 <summary><strong>CTF Walkthroughs</strong></summary>
 <br>
-<table>
+<table width="100%">
   <tr>
-    <td>- Active Directory Basics</td>
-    <td>- Active Reconnaissance</td>
-    <td>- Advanced SQL Injection</td>
+    <td width="33%">- Active Directory Basics</td>
+    <td width="33%">- Active Reconnaissance</td>
+    <td width="33%">- Advanced SQL Injection</td>
   </tr>
   <tr>
     <td>- Alfred</td>
@@ -253,11 +253,11 @@ I am a **Full-Stack Developer** and **Penetration Tester** operating in the digi
 <details>
 <summary><strong>Challenges</strong></summary>
 <br>
-<table>
+<table width="100%">
   <tr>
-    <td>- Benign</td>
-    <td>- CyberHeroes</td>
-    <td>- CyberLens</td>
+    <td width="33%">- Benign</td>
+    <td width="33%">- CyberHeroes</td>
+    <td width="33%">- CyberLens</td>
   </tr>
   <tr>
     <td>- El Bandito</td>
@@ -304,16 +304,16 @@ I am a **Full-Stack Developer** and **Penetration Tester** operating in the digi
 
 ---
 
-### 🔬 <span style="color:#FF0000;">Created Tools</span>
+### 🔬 <span style="color:#00BFFF;">Created Tools</span>
 <p align="center">
   <a href="https://github.com/MarwanKhatib/MarScan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarwanKhatib&repo=MarScan&theme=dark&border_color=00FF00&title_color=00FF00&icon_color=00FF00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarwanKhatib&repo=MarScan&theme=tokyonight&border_color=00BFFF&title_color=00BFFF&icon_color=00BFFF" />
   </a>
 </p>
 
 ---
 
-### ⚔️ <span style="color:#FF0000;">Arsenal</span>
+### ⚔️ <span style="color:#00BFFF;">Cybersecurity Skills</span>
 -   **Offensive Security:**
     -   **Web Pentesting:** OWASP Top 10, SQL Injection, XSS, RCE, IDOR, API & Mobile Testing.
     -   **Infrastructure Pentesting:** Active Directory (Kerberoasting, etc.), Network Pivoting, Privilege Escalation (Windows & Linux).
@@ -324,31 +324,31 @@ I am a **Full-Stack Developer** and **Penetration Tester** operating in the digi
 
 ---
 
-### 🛠️ <span style="color:#FF0000;">Tools & Technologies</span>
+### 🛠️ <span style="color:#00BFFF;">Tools & Technologies</span>
 <p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00FF00"></a>
-  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=00FF00"></a>
-  <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&color=00FF00"></a>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=00FF00"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=00FF00"></a>
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=FF0000"></a>
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=FF0000"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=00BFFF"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=00FFFF"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=00FFFF"></a>
 </p>
 <p align="center">
-  <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-DBB302?style=for-the-badge&logo=sqlmap&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="ffuf" src="https://img.shields.io/badge/ffuf-FF00FF?style=for-the-badge&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/Nikto-black?style=for-the-badge&logo=nikto&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&color=FF0000"></a>
-  <a href="#"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&color=00FF00"></a>
-  <a href="#"><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-FF9900?style=for-the-badge&logo=wazuh&logoColor=white&color=00FF00"></a>
+  <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-E84B36?style=for-the-badge&logo=metasploit&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-444444?style=for-the-badge&logo=nmap&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-DBB302?style=for-the-badge&logo=sqlmap&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="ffuf" src="https://img.shields.io/badge/ffuf-DA649D?style=for-the-badge&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/Nikto-black?style=for-the-badge&logo=nikto&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&color=00BFFF"></a>
+  <a href="#"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&color=00FFFF"></a>
+  <a href="#"><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-FF9900?style=for-the-badge&logo=wazuh&logoColor=white&color=00FFFF"></a>
 </p>
 
 ---
 
-### 🚀 <span style="color:#FF0000;">Field Operations</span>
+### 🚀 <span style="color:#00BFFF;">Professional Experience</span>
 #### **Junior Penetration Tester** | Cyberpedia | *Jan 2025 – Present*
 -   Conducted comprehensive penetration tests on client infrastructure, identifying critical vulnerabilities like IDOR, XSS, and RCE.
 -   Executed sophisticated attack simulations using a combination of automated tools (Metasploit, Burp Suite, SQLmap) and custom scripts.
@@ -361,7 +361,7 @@ I am a **Full-Stack Developer** and **Penetration Tester** operating in the digi
 
 ---
 
-### 🎓 <span style="color:#FF0000;">Training & Certifications</span>
+### 🎓 <span style="color:#00BFFF;">Education & Certifications</span>
 -   **BSc in Information Technology Engineering – Data Science** | *Syrian Virtual University (2020 – 2026)*
 -   **eJPT v2** – eLearnSecurity Junior Penetration Tester
 -   **TryHackMe** – Junior Penetration Tester & Web Application Pentesting Paths
@@ -369,7 +369,7 @@ I am a **Full-Stack Developer** and **Penetration Tester** operating in the digi
 
 ---
 
-### 🏆 <span style="color:#FF0000;">Black Ops</span>
+### 🏆 <span style="color:#00BFFF;">Projects</span>
 -   **Web App Exploitation:** In-depth security assessments on DVWA, OWASP Juice Shop, and PortSwigger Labs.
 -   **Metasploitable Exploitation:** Post-exploitation on Linux & Windows to practice privilege escalation and lateral movement.
 -   **Network Attack Simulations:** Designed and simulated attacks in EVE-NG (VLAN hopping, DHCP spoofing, AD attacks).
