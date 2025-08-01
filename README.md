@@ -9,12 +9,15 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/marwan-alkhatib-426010323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/MarwanKhatib" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/MarwanAl56ib" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://tryhackme.com/p/marwanalkhatib" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
   <a href="mailto:marwanalkhatibeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MarwanKhatib&style=for-the-badge&color=00BFFF" alt="Profile Views"/>
+  <br>
+  Note: This counter tracks page hits, not unique visitors.
 </div>
 
 <div align="center">
